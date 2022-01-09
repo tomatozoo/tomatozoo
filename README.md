@@ -3,7 +3,7 @@
 
 **tomatozoo/tomatozoo** 
 
-Here are some ideas to get you started:
+Here are some ideas to get y
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
