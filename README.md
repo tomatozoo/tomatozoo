@@ -3,7 +3,7 @@
 - Undergraduate student in Seoul National University
 - Major in Education Studies
 - Interdisciplinary Major in Artificial Intelligence
-- Tech blog : [@tomatolife.tistory.com](https://tomatolife.tistory.com/)
+- Tech blog : https://tomatolife.tistory.com/
 - LinkedIn : [@YoungZoo Park](https://www.linkedin.com/in/youngzoo-park-1ab664220/)
 
 ## Languages & Tools
