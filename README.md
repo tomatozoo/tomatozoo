@@ -4,7 +4,7 @@
 - Major in Education Studies
 - Interdisciplinary Major in Artificial Intelligence
 - Tech blog : https://tomatolife.tistory.com/
-- LinkedIn : [@YoungZoo Park](https://www.linkedin.com/in/youngzoo-park-1ab664220/)
+- LinkedIn : www.linkedin.com/in/YoungZooPark
 
 ## Languages & Tools
 <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpp&logoColor=white"/>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=js&logoColor=white"/> <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white"/> </br>
